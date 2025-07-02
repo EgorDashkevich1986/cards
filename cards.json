@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "title": "Кот",
+    "image": "images/cat.jpg",
+    "description": "Милый котик"
+  },
+  {
+    "id": 2,
+    "title": "Пёс",
+    "image": "images/dog.jpg",
+    "description": "Весёлый пёс"
+  }
+]
