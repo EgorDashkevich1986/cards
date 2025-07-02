@@ -2,13 +2,13 @@
   {
     "id": 1,
     "title": "Кот",
-    "image": "images/cat.jpg",
+    "image": "https://github.com/EgorDashkevich1986/cards/blob/main/images/cat.jpg?raw=true",
     "description": "Милый котик"
   },
   {
     "id": 2,
     "title": "Пёс",
-    "image": "images/dog.jpg",
+    "image": "https://github.com/EgorDashkevich1986/cards/blob/main/images/dog.jpg?raw=true",
     "description": "Весёлый пёс"
   }
 ]
