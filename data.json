@@ -1,6 +1,5 @@
- {"cards":
-   [
-  {
+[
+ {
     "id": 1,
     "title": "Кот",
     "image": "https://github.com/EgorDashkevich1986/cards/blob/main/images/cat.jpg?raw=true",
@@ -11,6 +10,5 @@
     "title": "Пёс",
     "image": "https://github.com/EgorDashkevich1986/cards/blob/main/images/dog.jpg?raw=true",
     "description": "Весёлый пёс"
-  }
+ }
 ]
-}
